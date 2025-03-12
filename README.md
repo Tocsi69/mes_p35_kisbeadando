@@ -34,7 +34,7 @@ ros2 run my_turtle_controller draw_line
 <details>
   <summary>Inspiráció</summary>
 
-  ![](img/adidas.gif)
+  ![](img/insp.png)
 
 </details>
 
