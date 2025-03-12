@@ -31,6 +31,12 @@ source ~/ros2_ws/install/setup.bash
 ``` r
 ros2 run my_turtle_controller draw_line
 ```
-<summary>Inspiráció ![](img/insp.png)</summary>
+<details>
+  <summary>Inspiráció</summary>
+
+  ```
+  ![](img/adidas.gif)
+  ```
+</details>
 
 ![](img/adidas.gif)
